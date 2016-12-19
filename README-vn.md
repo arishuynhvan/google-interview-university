@@ -1,36 +1,34 @@
-# Google Interview University
+# Google Interview University - Đại Học Phỏng Vấn Google
 
-Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
-[Vietnamese version - Phiên bản tiếng Việt]()
+[Bản gốc](https://github.com/jwasham/google-interview-university)
+[Tác giả: Jwasham](https://github.com/jwasham) và [blog](https://googleyasheck.com/)
+## Nó là gì?
 
-## What is it?
+Đây là kế hoạch học tập nhiều tháng của tôi để đi từ nhà phát triển web (tự học, không bằng cấp vi tính) đến kỹ sư phần mềm Google.
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
+![Lập trình trên bảng trắng - từ Sillicon Valley của HBO](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+Đây là danh sách dài đã được trích ra và mở rộng tù **Những ghi chú huấn luyện của Google**, thế nên đấy là những điều bạn cần biết.
 
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
-sometimes word-for-word in Google's coaching notes.
+Có nhiều mục tôi đã thêm vào ở phía cuối mà có thể xuất hiện trong buổi phỏng vấn hoặc có ích cho giải quyết một vấn đề. Nhiều mục được lấy từ bài viết [Get that job at Google - Nhận công việc dó ở Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)trên blog của Steve Yegge và được phản ánh từng từ một trong ghi chú huấn luyện của Google
 
-I've pared down what you need to know from what Yegge recommends. I've altered Yegge's requirements
-from information received from my contact at Google. This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
-[Read more here](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
+Tôi đã gọt tỉa những điều bạn cần biết theo điều Yegge đề nghị. Tôi đã thay đổi yêu cầu của Yegge theo như thông tin tôi nhận được từ liên hệ của tôi ở Google. Đây là dành cho **kỹ sư phần mềm mới** hay những người đổi nghề từ phát triển viên phần mềm/web sang kỹ sư phần mềm (yêu cầu kiến thức khoa học máy tính).
 
-If you have many years of software/web development experience, note that large companies view software engineering as
-different from software/web development and they require computer science knowledge.
-[Read more about that here](https://googleyasheck.com/software-engineering-is-not-software-web-development/)
+Nếu bạn có nhiều năm kinh nghiệm và cho là nhiều năm kinh nghiệm cho công nghệ phần mềm, trông chờ một buổi phỏng vấn khó hơn.
 
-If you want to be a reliability engineer or systems engineer, study more from the optional list (networking, security).
+[Xem thêm ở đây](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
+
+Nếu bạn có nhiều năm kinh nghiệm phát triển web/phần mềm, hãy chú ý là các công ty lớn xem (software engineering) công nghệ phần mềm khác với (software/web development) phát triển phần mềm/web và họ đòi hỏi kiến thức khoa học máy tính.
+
+[Xem thêm về điều đó ở đây](https://googleyasheck.com/software-engineering-is-not-software-web-development/)
+
+Nếu bạn muốn trở thành một (reliability engineer) kỹ sư đảm bảo độ tin cậy hay (systems engineer) kỹ sư hệ thống, học thêm từ danh sách tùy chọn (mạng, bảo mật).
 
 ---
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
+- [Nó là gì?](#nó-là-gì)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Get in a Googley Mood](#get-in-a-googley-mood)
