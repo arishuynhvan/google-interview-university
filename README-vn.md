@@ -32,7 +32,7 @@ Nếu bạn muốn trở thành một (reliability engineer) kỹ sư đảm b�
 - [Nó là gì?](#nó-là-gì)
 - [Tại sao sử dụng?](#tại-sao-sử-dụng)
 - [Làm sao sử dụng?](#làm-sao-sử-dụng)
-- [Tiến nhập trạng thái Google](#tiến-nhập-trạng-thái-google)
+- [Tiến nhập trạng thái Googley](#tiến-nhập-trạng-thái-googley)
 - [Tôi đã được nhận việc chưa?](#tôi-đã-nhận-được-việc-chưa)
 - [Theo cùng với tôi](#theo-cùng-với-tôi)
 - [Đừng cảm thấy bạn không đủ thông minh](#đừng-cảm-thấy-bạn-không-đủ-thông minh)
@@ -150,23 +150,13 @@ Nếu bạn muốn trở thành một (reliability engineer) kỹ sư đảm b�
 
 ---
 
-## Why use it?
+## Tại sao sử dụng?
 
-I'm following this plan to prepare for my Google interview. I've been building the web, building
-services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
-been very successful in my career, but I want to work at Google. I want to progress into larger systems
-and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
-low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
+Tôi đang làm theo kế hoạch này để chuẩn bị cho buổi phỏng vấn Google của tôi. Tôi đã tạo trang web, dịch vụ, và mở các công ty startups hay khởi nghiệp từ năm 1997. Tôi có một băng kinh tế học, không phải khoa học máy tính - CS. Tôi đã rất thành công trong sự nghiệp, nhưng tôi muốn làm việc tại Google. Tôi muốn tiến bộ trong những hệ thống lớn hơn và thật sự hiểu được máy tính, hiệu quả của thuật toán, hiệu suất của cơ sở dữ liệu, ngôn ngữ cấp thấp, và làm sao tất cả cùng hoạt động. Và nếu bạn không biết bất kỳ điều gì về nó, Google sẽ không thuê bạn.
 
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
+Khi tôi bắt đầu dự án này, tôi đã không biết phân biệt ngăn xếp (stack) và đống (heap), không biết kí hiệu O (Big-0) gì cả, chả biết gì về cây (trees), hay làm sao để duyệt đồ thị (traverse a grah). Nếu tôi phải lập trình thuật toán tìm kiếm, tôi có thể cho bạn biết là nó sẽ không quá tốt. Mỗi cơ sở dữ liệu tôi chưa từng dùng qua đã được xây dựng vào trong ngôn ngữ, và tôi không biết chút nào cách chúng hoạt động sau màn. Tôi chưa từng phải quản lý bộ nhớ trừ khi một quá trình tôi đang chạy xuất hiện lỗi "vượt quá bộ nhớ" (out of memory), và rồi tôi phải tìm cách giải quyết khác. Tôi đã từng dùng vài mảng đa chiều (multidimensional array) trong đời và hàng ngàn mảng liên tưởng (associative aray), nhưng tôi chưa từng tạo ra cơ sở dữ liệu từ con số 0.
 
-But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
-months. If you are familiar with a lot of this already it will take you a lot less time.
+Nhưng sau khi tôi thực hiện kế hoạch học tập này, tôi có tự tin là tôi sẽ được tuyển dụng. Nó là một danh sách dài. Nó sẽ lấy của tôi vài tháng. Nếu bạn đã quen nhiều với điều này, nó sẽ lấy của bạn rất ít tháng hơn.
 
 ## How to use it
 
