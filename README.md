@@ -1,7 +1,9 @@
 # Google Interview University
 
 Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
-[Vietnamese version - Phiên bản tiếng Việt]()
+
+
+[Vietnamese version - Phiên bản tiếng Việt](https://github.com/arishuynhvan/google-interview-university/blob/translation/Vietnamese/README-vn.md)
 
 ## What is it?
 

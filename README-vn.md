@@ -1,7 +1,8 @@
 # Google Interview University - Đại Học Phỏng Vấn Google
 
 [Bản gốc](https://github.com/jwasham/google-interview-university)
-[Tác giả: Jwasham](https://github.com/jwasham) và [blog](https://googleyasheck.com/)
+
+Tác giả: [Jwasham](https://github.com/jwasham) và [blog](https://googleyasheck.com/)
 ## Nó là gì?
 
 Đây là kế hoạch học tập nhiều tháng của tôi để đi từ nhà phát triển web (tự học, không bằng cấp vi tính) đến kỹ sư phần mềm Google.
@@ -10,7 +11,7 @@
 
 Đây là danh sách dài đã được trích ra và mở rộng tù **Những ghi chú huấn luyện của Google**, thế nên đấy là những điều bạn cần biết.
 
-Có nhiều mục tôi đã thêm vào ở phía cuối mà có thể xuất hiện trong buổi phỏng vấn hoặc có ích cho giải quyết một vấn đề. Nhiều mục được lấy từ bài viết [Get that job at Google - Nhận công việc dó ở Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)trên blog của Steve Yegge và được phản ánh từng từ một trong ghi chú huấn luyện của Google
+Có nhiều mục tôi đã thêm vào ở phía cuối mà có thể xuất hiện trong buổi phỏng vấn hoặc có ích cho giải quyết một vấn đề. Nhiều mục được lấy từ bài viết [Get that job at Google - Nhận công việc dó ở Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) trên blog của Steve Yegge và được phản ánh từng từ một trong ghi chú huấn luyện của Google
 
 Tôi đã gọt tỉa những điều bạn cần biết theo điều Yegge đề nghị. Tôi đã thay đổi yêu cầu của Yegge theo như thông tin tôi nhận được từ liên hệ của tôi ở Google. Đây là dành cho **kỹ sư phần mềm mới** hay những người đổi nghề từ phát triển viên phần mềm/web sang kỹ sư phần mềm (yêu cầu kiến thức khoa học máy tính).
 
