@@ -156,9 +156,9 @@ Tôi đang làm theo kế hoạch này để chuẩn bị cho buổi phỏng v�
 
 Khi tôi bắt đầu dự án này, tôi đã không biết phân biệt ngăn xếp (stack) và đống (heap), không biết kí hiệu O (Big-0) gì cả, chả biết gì về cây (trees), hay làm sao để duyệt đồ thị (traverse a grah). Nếu tôi phải lập trình thuật toán tìm kiếm, tôi có thể cho bạn biết là nó sẽ không quá tốt. Mỗi cơ sở dữ liệu tôi chưa từng dùng qua đã được xây dựng vào trong ngôn ngữ, và tôi không biết chút nào cách chúng hoạt động sau màn. Tôi chưa từng phải quản lý bộ nhớ trừ khi một quá trình tôi đang chạy xuất hiện lỗi "vượt quá bộ nhớ" (out of memory), và rồi tôi phải tìm cách giải quyết khác. Tôi đã từng dùng vài mảng đa chiều (multidimensional array) trong đời và hàng ngàn mảng liên tưởng (associative aray), nhưng tôi chưa từng tạo ra cơ sở dữ liệu từ con số 0.
 
-Nhưng sau khi tôi thực hiện kế hoạch học tập này, tôi có tự tin là tôi sẽ được tuyển dụng. Nó là một danh sách dài. Nó sẽ lấy của tôi vài tháng. Nếu bạn đã quen nhiều với điều này, nó sẽ lấy của bạn rất ít tháng hơn.
+Nhưng sau khi tôi thực hiện kế hoạch học tập này, tôi có tự tin là tôi sẽ được tuyển dụng. Nó là một danh sách dài. Nó sẽ lấy của tôi vài tháng. Nếu bạn đã quen nhiều với điều này, nó sẽ lấy của bạn rất ít thời gian hơn.
 
-## How to use it
+## Làm sao sử dụng?
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
@@ -187,20 +187,19 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Get in a Googley Mood
+## Tiến nhập và trạng thái Googley
 
 Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
 
 [![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
-## Did I Get the Job?
+## Tôi đã được nhận việc chưa?
 
-I haven't applied yet.
+Tôi chưa nộp đơn.
 
-Right now I'm doing programming problems all day long. That will continue for a few weeks, and then I'll
-apply through a referral I've been holding onto since February (yes, February).
+Ngay bây giờ, tôi đang giải quyết những câu đố lập trình cả ngày. Điều đó sẽ tiếp diễn thêm và tuần, và rồi tôi sẽ nộp đơn thông qua và giới thiệu mà tôi đã nắm bắt được từ tháng hai (vâng, tháng hai).
 
-    Thanks for the referral, JP.
+    Cám ơn vì đã giới thiệu, JP.
 
 ## Follow Along with Me
 
