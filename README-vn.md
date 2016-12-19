@@ -5,7 +5,7 @@
 Tác giả: [Jwasham](https://github.com/jwasham) và [blog](https://googleyasheck.com/)
 ## Nó là gì?
 
-Đây là kế hoạch học tập nhiều tháng của tôi để đi từ nhà phát triển web (tự học, không bằng cấp vi tính) đến kỹ sư phần mềm Google.
+Đây là kế hoạch học tập nhiều tháng của tôi để đi từ nhà phát triển web (tự học, không bằng cấp CS - khoa học máy tính) đến kỹ sư phần mềm Google.
 
 ![Lập trình trên bảng trắng - từ Sillicon Valley của HBO](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
@@ -27,46 +27,46 @@ Nếu bạn muốn trở thành một (reliability engineer) kỹ sư đảm b�
 
 ---
 
-## Table of Contents
+## Mục lục
 
 - [Nó là gì?](#nó-là-gì)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Did I Get the Job?](#did-i-get-the-job)
-- [Follow Along with Me](#follow-along-with-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Google](#about-google)
-- [About Video Resources](#about-video-resources)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-- [Book List](#book-list)
-- [Before you Get Started](#before-you-get-started)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
+- [Tại sao sử dụng?](#tại-sao-sử-dụng)
+- [Làm sao sử dụng?](#làm-sao-sử-dụng)
+- [Tiến nhập trạng thái Google](#tiến-nhập-trạng-thái-google)
+- [Tôi đã được nhận việc chưa?](#tôi-đã-nhận-được-việc-chưa)
+- [Theo cùng với tôi](#theo-cùng-với-tôi)
+- [Đừng cảm thấy bạn không đủ thông minh](#đừng-cảm-thấy-bạn-không-đủ-thông minh)
+- [Về Google](#về-google)
+- [Về tài nguyên video](#về-tài-nguyên-video)
+- [Chuẩn bị cho quá trình phỏng vấn và phỏng vấn tổng hợp](#chuẩn-bị-cho-quá-trình-phỏng-vấn-va-phỏng-vấn-tổng-hợp)
+- [Chọn một ngôn ngữ cho buổi phỏng vấn](#chọn-một-ngôn-ngữ-cho-buổi-phỏng-vấn)
+- [Danh mục sách](#danh-mục-sách)
+- [Trước khi bạn Bắt Đầu](#trước-khi-bạn-bắt-đầu)
+- [Điều bạn sẽ không thấy bao gồm](#điều-bạn-sẽ-không-thấy-bao-gồm)
+- [Kiến thức cơ bản yêu cầu](#kiến-thức-cơ-bản-yêu-cầu)
+- [Kế Hoạch Mỗi Ngày](#kế-hoạch-mỗ-ngày)
+- [Độ phức tạp của giải thuật - Algorithmic complexity/ Kí hiệu O lớn - Big-O / Phân tích thuật toán tiệm cận - Asymptotic analysis](#độ-phức-tạp-của-giải-thuật---algorithmic-complexity--Kí-hiệu-o-lớn---Big-O--Phân-tích-thuật-toán-tiệm-cận---asymptotic-analysis)
+- [Cấu trúc dữ liệu - Data Structures](#cấu-trúc-dữ-liệu---data-structures)
+    - [Mảng - Array](#mảng---array)
+    - [Danh sách Liên kết - Linked lits](#danh-sách-liên-kết---linked-lists)
+    - [Ngăn xếp - Stack](#ngăn-xếp-stack)
+    - [Hàng đợi](#hàng-đợi-queue)
+    - [Bảng băm - Hash table](#bảng-băm---hash-table)
+- [Thêm kiến thức](#thêm-kiến-thức)
+    - [Tìm kiếm nhị phân - Binary search](#tìm-kiếm-nhị-phân---binary-search)
+    - [Phép toán thao tác trên bit - Bitwise operations](#phép-toán-thao-tác-trên-bit---bitwise-operations)
+- [Cây - Trees](#cây---trees)
+    - [Cây - Trees - Ghi chú và nền tảng](#cây---trees---ghi-chú-và-nền-tảng---notes--background)
+    - [Cây tìm kiếm nhị phân - Binary search trees: BSTs](#cây-tìm-kiếm-nhị-phân-binary-search-trees-bsts)
+    - [Đống - Heap / Hàng Ưu Tiên - Priority Queue / Đống Nhị Phân - Binary Heap](#đống---heap--hàng-ưu-tiên---priority-queue--đống-nhị-phân---binary-heap)
+    - cây tìm kiếm cân băng - balanced search trees (khái niệm tổng hợp, không chi tiết)
+    - phương pháp duyệt cây - traversals: tiền thứ tự - preorder, trung thứ tự - inorder, hậu thứ tự - postorder, tìm kiếm theo chiều rộng - BFS, tìm kiếm theo chiều sâu - DFS
+- [Xắp sếp](#xắp sếp)
+    - lựa chọn - selection
+    - thêm vào - insertion
+    - sắp xếp đống - heapsort
+    - sắp xếp nhanh - quicksort
+    - sắp xếp trộn - merge sort
 - [Graphs](#graphs)
     - directed
     - undirected
@@ -97,7 +97,7 @@ Nếu bạn muốn trở thành một (reliability engineer) kỹ sư đảm b�
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
 
----------------- Everything below this point is optional ----------------
+---------------- Mọi thứ từ đây trở đi là không bắt buộc ----------------
 
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
